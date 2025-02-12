@@ -10,7 +10,7 @@ Smart Contract (Base)[https://basescan.org/address/0x67e2ef29a62a7827823ebed4951
 
 ## [Memedex](https://memedex.meme)
 
-Memedex TL1 is the first index token sourced from Farcaster trending token link data. Users can mint index and redeem fixed-weight index tokens for the underlying assets.
+Memedex TL1 is the first index token sourced from Farcaster trending token link data. Users can mint and redeem fixed-weight index tokens for the underlying assets.
 
 Smart Contract (Base)[https://basescan.org/address/0x6799cc51d42438cdcf97d301daf30d7be5ee5a17#code]
 
