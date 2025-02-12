@@ -6,13 +6,13 @@ I have mostly been writing Solidity smart contracts the past couple years. All s
 
 The Starta x Degen bridge is the first zero-fee bridge into Degen L3. It was also the only bridge which didn't suffer a loss of funds during the 1.6 million block re-org that we detected early on.
 
-Smart Contract (Base)[https://basescan.org/address/0x67e2ef29a62a7827823ebed495115458286b7d12#code]
+[Smart Contract (Base)](https://basescan.org/address/0x67e2ef29a62a7827823ebed495115458286b7d12#code)
 
 ## [Memedex](https://memedex.meme)
 
 Memedex TL1 is the first index token sourced from Farcaster trending token link data. Users can mint and redeem fixed-weight index tokens for the underlying assets.
 
-Smart Contract (Base)[https://basescan.org/address/0x6799cc51d42438cdcf97d301daf30d7be5ee5a17#code]
+[Smart Contract (Base)](https://basescan.org/address/0x6799cc51d42438cdcf97d301daf30d7be5ee5a17#code)
 
 ## [Starta Loans](https://starta.loans)
 
