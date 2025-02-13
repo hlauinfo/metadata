@@ -21,3 +21,7 @@ Starta is a net-new lending protocol design that I've been working on for the pa
 ## Fairo
 
 Fairo is the first post-quantum end-to-end encrypted (E2EE) messenger on Ethereum. It used calldata inscriptions for maximal gas efficiency on ETH mainnet. Client will be restored in the coming months.
+
+## [Archiv3](https://ethglobal.com/showcase/archiv3-183kk)
+
+I solo hacked and built Archiv3 as part of the ETHGlobal SF hackathon. I won 3rd place for Best Use of Creativity Protocol from Story Protocol and was invited to their offices afterward to provide integration feedback on their protocol smart contracts.
